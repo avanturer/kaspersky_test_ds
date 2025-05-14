@@ -35,18 +35,19 @@
 ## Установка и запуск  
 
 1. Клонируйте репозиторий:
+```
 git clone https://github.com/yourusername/news-text-extraction-evaluation.git
 cd news-text-extraction-evaluation
+```
 
 2. Установите зависимости:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3. Загрузите языковую модель spaCy для русского языка:
-python -m spacy download ru_core_news_sm
-
+```python -m spacy download ru_core_news_sm```
 
 4. Запустите Jupyter Notebook:
-jupyter notebook TextExtractionEvaluation.ipynb
+```jupyter notebook TextExtractionEvaluation.ipynb```
 
 ## Результаты
 
