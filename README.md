@@ -36,7 +36,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/yourusername/news-text-extraction-evaluation.git
+git clone https://github.com/avanturer/news-text-extraction-evaluation.git
 cd news-text-extraction-evaluation
 ```
 
